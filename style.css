@@ -1,0 +1,16 @@
+body{
+    color: blue;
+    background: linear-gradient(red 0% , orange 10% , yellow 30% , lightgreen 50% , blue 70% , darkblue 90% , purple 100% );
+}
+
+.heading{
+    background-color: yellow;
+}
+
+#takesnapshot{
+    background-color: orange;
+}
+
+#check{
+    background-color: orange;
+}
